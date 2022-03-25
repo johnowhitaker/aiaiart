@@ -7,3 +7,4 @@ For now, the videos for the first run of the course are here: https://www.youtub
 
 - Lesson 1 - PyTorch, Tensors, Gradient Descent (colab): https://colab.research.google.com/drive/1pp8hS5C6RTMpOLBJMwnx3d7JjicqgJKx?usp=sharing
 - Lesson 2 - Learning Representations, Style Transfer (colab): https://colab.research.google.com/drive/1Rk8cXMdad9ASIVI6avPyp5bl0qmeOu6S?usp=sharing
+- Lesson 3 - GANS+CLIP (colab): https://colab.research.google.com/drive/1qnV7PT1aSwomXvRmdoY_pgcR2ruvm6Of?usp=sharing
