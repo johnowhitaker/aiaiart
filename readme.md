@@ -10,5 +10,6 @@ Notebooks:
 - Lesson 2 - Learning Representations, Style Transfer (colab): https://colab.research.google.com/drive/1Rk8cXMdad9ASIVI6avPyp5bl0qmeOu6S?usp=sharing
 - Lesson 3 - GANS+CLIP (colab): https://colab.research.google.com/drive/1qnV7PT1aSwomXvRmdoY_pgcR2ruvm6Of?usp=sharing
 - Lesson 4 - Going Further (colab): https://colab.research.google.com/drive/1ipnriyQ-S5PD97sqZo4aieQOefMlkPwJ?usp=sharing
+- Lesson 5 - Recap of key ideas and start of part 2: https://colab.research.google.com/drive/1cFqAHB_EQqDh0OHCIpikpQ04yzsjITXt?usp=sharing
 
 Feel free to reach out to me @johnowhitaker on Twitter with feedback, questions or requests. And come join our discord to share your work and chat with others doing similar projects: https://discord.gg/vSjhr8xb4g. Future courses will run via Discord/Twitch so that's the best place besides my Twitter to stay up-to-date :)
