@@ -1,7 +1,5 @@
 # AIAIART course
 
-##NB: The first lesson of part two is streaming at 4pm UTC today (9 April) on https://www.twitch.tv/johnowhitaker
-
 This repo will house the notebooks used for the AIAIART course. Part 1 (first four lessons) ran via Discord in September/October 2021. Part 2 starts Saturday April 9th at 4pm UTC. Join the Discord linked below if you'd like to join the chat and get reminders for the livestream!
 
 For now, the videos for the first run of the course are here: https://www.youtube.com/playlist?list=PL23FjyM69j910zCdDFVWcjSIKHbSB7NE8
