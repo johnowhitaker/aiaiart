@@ -11,6 +11,7 @@ Notebooks:
 - Lesson 3 - GANS+CLIP (colab): https://colab.research.google.com/drive/1qnV7PT1aSwomXvRmdoY_pgcR2ruvm6Of?usp=sharing
 - Lesson 4 - Going Further (colab): https://colab.research.google.com/drive/1ipnriyQ-S5PD97sqZo4aieQOefMlkPwJ?usp=sharing
 - Lesson 5 - Recap of key ideas and start of part 2: https://colab.research.google.com/drive/1cFqAHB_EQqDh0OHCIpikpQ04yzsjITXt?usp=sharing
-- Lesson 6 - Transformers for image synthesis and VQ-GAN revisited coming Saturday April 16th at 4pm UTC https://colab.research.google.com/drive/1VhiIxMw9YClzmwamu9oiBewhZPnhmSV-?usp=sharing
+- Lesson 6 - Transformers for image synthesis and VQ-GAN revisited: https://colab.research.google.com/drive/1VhiIxMw9YClzmwamu9oiBewhZPnhmSV-?usp=sharing
+- Lesson 7 - Diffusion Models: https://colab.research.google.com/drive/1NFxjNI-UIR7Ku0KERmv7Yb_586vHQW43?usp=sharing
 
 Feel free to reach out to me @johnowhitaker on Twitter with feedback, questions or requests. And come join our discord to share your work and chat with others doing similar projects: https://discord.gg/vSjhr8xb4g. The Discord is the best way to hear about upcoming lessons and livestreams.
