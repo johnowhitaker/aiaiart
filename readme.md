@@ -14,5 +14,6 @@ Notebooks:
 - Lesson 6 - Transformers for image synthesis and VQ-GAN revisited: https://colab.research.google.com/drive/1VhiIxMw9YClzmwamu9oiBewhZPnhmSV-?usp=sharing
 - Lesson 7 - Diffusion Models: https://colab.research.google.com/drive/1NFxjNI-UIR7Ku0KERmv7Yb_586vHQW43?usp=sharing
 - Lesson 7.5 - We had a less formal stream chatting about a few new papers and looking at an experiment with CLOOB Conditioned Latent Denoising Diffusion GANs. Stream recording: https://youtu.be/OBrlYBP4GZA
+- Lesson 8 - Neural Cellular Automata: https://colab.research.google.com/drive/1Qpx_4wWXoiwTRTCAP1ohpoPGwDIrp9z-?usp=sharing
 
 Feel free to reach out to me @johnowhitaker on Twitter with feedback, questions or requests. And come join our discord to share your work and chat with others doing similar projects: https://discord.gg/vSjhr8xb4g. The Discord is the best way to hear about upcoming lessons and livestreams.
