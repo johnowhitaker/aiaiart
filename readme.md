@@ -1,6 +1,6 @@
 # AIAIART course
 
-This repo contains the notebooks used for the AIAIART course. Part 1 (first four lessons) ran via Discord in September/October 2021. Part 2 started Saturday April 9th at 4pm UTC and wrapped up with Lesson 9. Join the Discord linked below for course-related chat and reminders of any upcoming additions.
+This repo contains the notebooks used for the AIAIART course. Part 1 (first four lessons) ran via Discord in September/October 2021. Part 2 started in April 2022 and wrapped up with Lesson 9. Join the Discord linked below for course-related chat and reminders of any upcoming additions.
 
 The videos for each lesson are linked within the notebooks, but can also be viewed in this YouTube playlist: https://www.youtube.com/playlist?list=PL23FjyM69j910zCdDFVWcjSIKHbSB7NE8
 
