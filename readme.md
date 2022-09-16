@@ -19,7 +19,7 @@ Notebooks:
 - Lesson 8 - Neural Cellular Automata: https://colab.research.google.com/drive/1Qpx_4wWXoiwTRTCAP1ohpoPGwDIrp9z-?usp=sharing
 - Lesson 9 - Evolutionary Algorithms and CPPNs: https://colab.research.google.com/drive/1Od3xufd6SUe0-6SgGUJ8sIP8AYI8oEgD?usp=sharing
 
-More recently, I've also shared a few bonus notebooks while working on part 2:
+More recently, I've also shared a few bonus notebooks while working on the new course:
 - Grokking Stable Diffusion: https://colab.research.google.com/drive/1dlgggNa5Mz8sEAGU0wFCHhGLFooW_pf1?usp=sharing (Breaking down the different components and showing how you can hack them to achieve different effects)
 - Grokking SD Part 2: Textual Inversion: https://colab.research.google.com/drive/1RTHDzE-otzmZOuy8w1WEOxmn9pNcEz3u?usp=sharing (Exploring how textual inversion adds new 'concepts' to the vocabulary.
 
