@@ -1,6 +1,6 @@
 # AIAIART course
 
-NEWS: I'm working on a successor to this course called 'The Generative Landscape' which will be out in November. Development for that will be happening in [this repository](https://github.com/johnowhitaker/genai).
+NEWS: I'm working on a successor to this course called 'The Generative Landscape' which will be out mid-November. Development for that will be happening in [this repository](https://github.com/johnowhitaker/tglcourse).
 
 This repo contains the notebooks used for the AIAIART course. Part 1 (first four lessons) ran via Discord in September/October 2021. Part 2 started in April 2022 and wrapped up with Lesson 9. Join the Discord linked below for course-related chat and reminders of any upcoming additions.
 
